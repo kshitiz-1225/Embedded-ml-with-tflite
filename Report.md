@@ -119,21 +119,4 @@ The TFLite conversion pipeline involves:
 - We are thankful to Dr. Binod Kumar for providing us opportunity to work on this interesting project.
 
 ---
-<style>
-
-table, th, td {
-  border: 0.1px solid black;
-  border-collapse: collapse;
-}
-
-h1,h2,h3,h4,h5,h6,p,li{
-    font-family:Georgia;
-}
-
-</style>
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
-</script>
 
